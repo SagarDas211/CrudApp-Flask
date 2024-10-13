@@ -1,0 +1,15 @@
+We have to run in virtual environment(venv)
+To run in venv run below command
+ python3 -m venv {your environment name}
+ ex- python3 -m venv myvenv
+(for windows use pyhton instead)
+
+It will create a venv file
+use source command to run venv 
+ex - source venv/bin/activate
+for windows use ./
+ex- .\venv\bin\activate
+
+
+Then run the Python command to run application
+python3 app.py 
